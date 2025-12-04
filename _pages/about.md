@@ -27,6 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div class="alert alert-info" role="alert">
+  <strong>Note:</strong>  I am actively seeking PhD opportunities. Please feel free to reach out for collaboration or potential openings.
+</div>
+
 Hi, I am a senior undergraduate at `KAIST` (Korea Advanced Institute of Science and Technology), majoring in Computer Science and minoring in Mathematics. Currently, I am a research intern at the CASYS lab in KAIST, advised by [Prof. Youngjin Kwon](https://sites.google.com/view/yjkwon/home). 
 
 
@@ -38,4 +42,4 @@ Previously, I have worked on research projects including:
 
 - **Project BudAlloc**, focusing on defeating Use-After-Free bugs by decoupling virtual address management from kernel. Utilized eBPF to remove semantic gap.
 
-If you’re interested in discussing research, or exploring collaboration opportunities, I’d love to connect — don’t hesitate to reach out to me at wooseok428@kaist.ac.kr !
+If you’re interested in discussing research, or exploring collaboration opportunities, I’d love to connect — don’t hesitate to reach out to me at `wooseok428@kaist.ac.kr` !
