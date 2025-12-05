@@ -33,6 +33,7 @@ latest_posts:
 
 Hi, I am a senior undergraduate at `KAIST` (Korea Advanced Institute of Science and Technology), majoring in Computer Science and minoring in Mathematics. Currently, I am a research intern at the CASYS lab in KAIST, advised by [Prof. Youngjin Kwon](https://sites.google.com/view/yjkwon/home). 
 
+I’m currently working on S3, a serving system that redesigns the KV caching stack to make sparse attention actually practical for long-context LLM serving. In this project, I focus on reducing CPU–GPU swap overhead when KV cache is offloaded and reloaded.
 
 Previously, I have worked on research projects including:
 
