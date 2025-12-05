@@ -36,10 +36,10 @@ Hi, I am a senior undergraduate at `KAIST` (Korea Advanced Institute of Science 
 
 Previously, I have worked on research projects including:
 
-- **Project DynoSpec**, focusing on accelerating speculative decoding through model colocation. 
+- **Project DynoSpec**: a serving system for speculative decoding that accelerates LLM inference by dynamically colocating models.
 
-- **Project TETRIS**, a serving system enabling dynamic parallel scaling for LLM by assigning adaptive configuration using RL.
+- **Project TETRIS**: a serving system that enables dynamic parallel scaling for LLMs. It assigns adaptive scaling configurations using reinforcement learning.
 
-- **Project BudAlloc**, focusing on defeating Use-After-Free bugs by decoupling virtual address management from kernel. Utilized eBPF to remove semantic gap.
+- **Project BudAlloc**: One Time memory Allocator (OTA) that mitigates use-after-free (UAF) bugs by decoupling virtual address management from the kernel. It leverages eBPF to reduce the semantic gap.
 
 If you’re interested in discussing research, or exploring collaboration opportunities, I’d love to connect — don’t hesitate to reach out to me at `wooseok428@kaist.ac.kr` !
