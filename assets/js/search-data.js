@@ -402,7 +402,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-diffmerge",
+          title: 'DiffMerge',
+          description: "Rethinking Token Merging for Semantic Binding in Diffusion-based Image Editing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-kv-streaming",
+          title: 'KV Streaming',
+          description: "Fast Long-Context LLM Serving via Streaming Layerwise-Compressed KV Cache",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
