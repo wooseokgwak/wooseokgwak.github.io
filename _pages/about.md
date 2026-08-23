@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cs.kaist.ac.kr/'>School of Computing, KAIST</a>
+subtitle: <a href='https://scs.gatech.edu/'>School of Computer Science, Georgia Tech</a>
 
 profile:
   align: right
@@ -27,15 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div class="alert alert-info" role="alert">
-  <strong>Note:</strong>  I am actively seeking PhD opportunities. Please feel free to reach out for collaboration or potential openings.
-</div>
+Hi, I am a first-year PhD student in Computer Science at `Georgia Tech`, advised by [Prof. Anand Iyer](https://www.anand-iyer.com/) in the [NEXS](https://nexs.scs.gatech.edu/) group. Before joining Georgia Tech, I received my B.S. in Computer Science (with a minor in Mathematics) from KAIST, where I was a research intern at the CASYS lab advised by [Prof. Youngjin Kwon](https://sites.google.com/view/yjkwon/home).
 
-Hi, I am a senior undergraduate at `KAIST` (Korea Advanced Institute of Science and Technology), majoring in Computer Science and minoring in Mathematics. Currently, I am a research intern at the CASYS lab in KAIST, advised by [Prof. Youngjin Kwon](https://sites.google.com/view/yjkwon/home). 
-
-I’m currently working on S3, a serving system that redesigns the KV caching stack to make sparse attention actually practical for long-context LLM serving. In this project, I focus on reducing CPU–GPU swap overhead when KV cache is offloaded and reloaded.
+My research interests lie in computer systems for machine learning, with a focus on building efficient AI infrastructure — LLM serving systems, memory and KV cache management, and the runtime mechanisms that make them fast and dependable.
 
 Previously, I have worked on research projects including:
+
+- **Project S3**: a serving system that redesigns the KV caching stack to make sparse attention practical for long-context LLM serving. I focused on reducing CPU–GPU swap overhead when the KV cache is offloaded and reloaded.
 
 - **Project DynoSpec**: a serving system for speculative decoding that accelerates LLM inference by dynamically colocating models.
 
@@ -43,4 +41,4 @@ Previously, I have worked on research projects including:
 
 - **Project BudAlloc**: One Time memory Allocator (OTA) that mitigates use-after-free (UAF) bugs by decoupling virtual address management from the kernel. It leverages eBPF to reduce the semantic gap.
 
-If you’re interested in discussing research, or exploring collaboration opportunities, I’d love to connect — don’t hesitate to reach out to me at `wooseok428@kaist.ac.kr` !
+If you’re interested in discussing research, or exploring collaboration opportunities, I’d love to connect — don’t hesitate to reach out to me at `wgwak3@gatech.edu` !
