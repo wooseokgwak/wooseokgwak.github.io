@@ -42,13 +42,3 @@ Previously, I have worked on research projects including:
 - **Project BudAlloc**: One Time memory Allocator (OTA) that mitigates use-after-free (UAF) bugs by decoupling virtual address management from the kernel. It leverages eBPF to reduce the semantic gap.
 
 If you’re interested in discussing research, or exploring collaboration opportunities, I’d love to connect — don’t hesitate to reach out to me at `wgwak3@gatech.edu` !
-
-## education
-
-- **Georgia Institute of Technology** <br>
-  Ph.D. in Computer Science <br>
-  *Aug 2026 – Present*
-
-- **KAIST (Korea Advanced Institute of Science and Technology)** <br>
-  B.S. in Computer Science, Minor in Mathematics <br>
-  *Feb 2019 – Feb 2026* · Summa Cum Laude
