@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am a first-year PhD student in Computer Science at `Georgia Tech`, advised by [Prof. Anand Iyer](https://www.anand-iyer.com/) in the [NEXS](https://nexs.scs.gatech.edu/) group. Before joining Georgia Tech, I received my B.S. in Computer Science (with a minor in Mathematics) from KAIST, where I was a research intern at the CASYS lab advised by [Prof. Youngjin Kwon](https://sites.google.com/view/yjkwon/home).
+Hi, I am a first-year PhD student in Computer Science at `Georgia Tech`, advised by [Prof. Anand Iyer](https://www.anand-iyer.com/) in the [NEXS](https://nexs.scs.gatech.edu/) group. Before joining Georgia Tech, I received my B.S. in Computer Science with a minor in Mathematics from KAIST (Summa Cum Laude), where I was a research intern at the CASYS lab advised by [Prof. Youngjin Kwon](https://sites.google.com/view/yjkwon/home).
 
-My research interests lie in computer systems for machine learning, with a focus on building efficient AI infrastructure — LLM serving systems, memory and KV cache management, and the runtime mechanisms that make them fast and dependable.
+My research interests lie in computer systems for machine learning. I focus on building efficient AI infrastructure, including LLM serving systems, memory and KV cache management, and the runtime mechanisms that make them fast and dependable.
 
-If you’re interested in discussing research, or exploring collaboration opportunities, I’d love to connect — don’t hesitate to reach out to me at `wgwak3@gatech.edu` !
+If you’re interested in discussing research or exploring collaboration opportunities, I’d love to connect. Please feel free to reach out to me at `wgwak3@gatech.edu`.
