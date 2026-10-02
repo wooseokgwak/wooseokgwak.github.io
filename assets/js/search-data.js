@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -402,17 +395,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-diffmerge",
-          title: 'DiffMerge',
-          description: "Rethinking Token Merging for Semantic Binding in Diffusion-based Image Editing",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-kv-streaming",
-          title: 'KV Streaming',
-          description: "Fast Long-Context LLM Serving via Streaming Layerwise-Compressed KV Cache",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
