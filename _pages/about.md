@@ -31,14 +31,4 @@ Hi, I am a first-year PhD student in Computer Science at `Georgia Tech`, advised
 
 My research interests lie in computer systems for machine learning, with a focus on building efficient AI infrastructure — LLM serving systems, memory and KV cache management, and the runtime mechanisms that make them fast and dependable.
 
-Previously, I have worked on research projects including:
-
-- **Project S3**: a serving system that redesigns the KV caching stack to make sparse attention practical for long-context LLM serving. I focused on reducing CPU–GPU swap overhead when the KV cache is offloaded and reloaded.
-
-- **Project DynoSpec**: a serving system for speculative decoding that accelerates LLM inference by dynamically colocating models.
-
-- **Project TETRIS**: a serving system that enables dynamic parallel scaling for LLMs. It assigns adaptive scaling configurations using reinforcement learning.
-
-- **Project BudAlloc**: One Time memory Allocator (OTA) that mitigates use-after-free (UAF) bugs by decoupling virtual address management from the kernel. It leverages eBPF to reduce the semantic gap.
-
 If you’re interested in discussing research, or exploring collaboration opportunities, I’d love to connect — don’t hesitate to reach out to me at `wgwak3@gatech.edu` !

@@ -6,6 +6,7 @@ img:
 importance: 1
 category: work
 related_publications: false
+published: false # hidden for now; flip to true to bring it back
 ---
 
 The summary of the project is as follows.
